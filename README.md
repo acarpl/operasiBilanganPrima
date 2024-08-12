@@ -1,4 +1,4 @@
-operasiBilanganPrima adalah sebuah program sederhana yang digunakan untuk menentukan bilangan prima dalam rentang tertentu. Pengguna dapat menginputkan batas bawah dan batas atas, dan program ini akan menampilkan semua bilangan prima yang ada dalam rentang tersebut.
+operasi Bilangan Prima adalah sebuah program sederhana yang digunakan untuk menentukan bilangan prima dalam rentang tertentu. Pengguna dapat menginputkan batas bawah dan batas atas, dan program ini akan menampilkan semua bilangan prima yang ada dalam rentang tersebut.
 
 Fitur
 Menentukan bilangan prima dalam rentang yang diberikan oleh pengguna.
@@ -15,10 +15,9 @@ Batas bawah: 10
 Batas atas: 50
 Maka output yang dihasilkan oleh program adalah:
 
-yaml
-Copy code
+
 Bilangan prima dalam rentang 10 hingga 50 adalah: 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47
-Teknologi
+
 Program ini dibuat menggunakan bahasa pemrograman Python. Tidak ada dependensi eksternal yang diperlukan, sehingga dapat dijalankan langsung di lingkungan Python standar.
 
 Instalasi
